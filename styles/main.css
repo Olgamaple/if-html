@@ -39,21 +39,14 @@
     height: 100px;
     margin-bottom: 48px;
   }
-
-  .copyright {
-    font-size: 14px;
-    font-weight: 400;
-    color: #333333;
-  }
-  .li {
+  li {
   list-style-type: none;
   margin-bottom: 25px;
 }
 .footer {
-  background-color: #0000ff;
+  background-color: #10367C;
 }
 .column {
-  display: flex;
   margin-bottom: 40px;
   font-style: normal;
   font-weight: normal;
@@ -73,15 +66,18 @@
   color: #FFFFFF;
 }
 .title-text {
-  font-style: normal;
-  font-weight: 500;
   font-size: 20px;
-  line-height: 23px;
+  line-height: 47px;
+  font-weight: 400;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 .text-footer {
   text-decoration: none;
-  color:#191970 ;
+  color:#FFFFFF;
 }
+
+
 
 
 
