@@ -43,17 +43,20 @@
     margin-bottom: 48px;
   }
 .offer-title {
+  font-style: normal;
+  font-weight: normal;
   font-size: 24px;
   line-height: 28px;
-  font-weight: 400;
+  color: #383838;
 }
+
   li {
   list-style-type: none;
   margin-bottom: 25px;
 }
 .footer {
   background-color: #10367C;
-  margin-bottom: 24px;
+
 }
 .row {
   margin-bottom: 40px;
