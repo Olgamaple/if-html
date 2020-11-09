@@ -112,7 +112,7 @@ label {
   display: inline-flex;
   background-color: var(--general-white);
   border-radius: 8px;
-  border-left: 3px solid var(--primary-text);
+  border-left: 3px solid var(--primary);
 }
 .header-form__input-hotel-name{
   border: none;
@@ -164,14 +164,12 @@ input::placeholder {
   padding: 120px 16px;
   margin: 0 auto;
 }
-
 .spates {
   position: absolute;
   visibility: hidden;
   width: 0;
   height: 0;
 }
-
 .text-center {
   text-align: center;
 }
@@ -338,7 +336,6 @@ hr {
   margin: 20px auto 85px;
   background-color: var(--secondary);
 }
-
 .row {
   display: flex;
   margin: 0 -8px;
